@@ -7,7 +7,6 @@
   <tr>
     <td valign="top" width="50%">
      
-    </td>
   </tr>
 </table> 
 <h3 align="left">Languages and Tools:</h3>
