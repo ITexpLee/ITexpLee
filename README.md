@@ -3,7 +3,7 @@
 # 💫 About Me
 
 - 🔭 I’m a blockchain developer with 7+ experience using Solidity, Go, and Rust
-- 👯 I’m looking to collaborate on Web3.0
+- 👯 I have a powerful background in AI.
 - 🏅 I have 9+ years of experience as a full-stack developer
 
 # 💻 My favorite tools and skills
